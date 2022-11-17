@@ -1,0 +1,43 @@
+Case 1: student id existed (Ok/Cancel)
+-1st alert: Do you want to bulk register students?
+-2nd alert: 1 student information needs to be corrected for a total of 1 enrollments.  Do you want to proceed?
+
+Case 2: student id empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Please enter ID.
+
+Case 3: student password empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Please enter PW.
+
+Case 4: student name empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: ???????
+
+Case 5: Class code empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Class code is mandatory to be filled.
+
+Case 6: wrong class code (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Class code {class_code} is not a class belonging to the institution.
+
+Case 7: Parent name empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Please enter the parent’s names.
+
+Case 8: Parent code empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Please enter parent classification.
+
+Case 9: Parent code with string format (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: Correction and batch registration failed.   Please contact your system representative.
+
+Case 10: Parent Passwod is empty (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: parentsPlease enter the password.
+
+Case 200: Create new student (Ok)
+-1st alert: Do you want to bulk register students?
+-2nd alert: 1 modifications and registrations have been completed.
